@@ -1,0 +1,6 @@
+D:\C# Solutions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+D:\C# Solutions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+D:\C# Solutions\SimpleConditions\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+D:\C# Solutions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+D:\C# Solutions\SimpleConditions\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

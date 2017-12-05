@@ -1,0 +1,10 @@
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\bin\Debug\Currency-Converter.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\bin\Debug\Currency-Converter.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency_Converter.FormConverter.resources
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency-Converter.csproj.GenerateResource.Cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency-Converter.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency-Converter.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Currency-Converter\obj\Debug\Currency-Converter.pdb

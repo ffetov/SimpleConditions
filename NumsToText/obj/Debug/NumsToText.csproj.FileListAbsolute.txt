@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\NumsToText\bin\Debug\NumsToText.exe.config
+D:\C# Solutions\SimpleConditions\NumsToText\bin\Debug\NumsToText.exe
+D:\C# Solutions\SimpleConditions\NumsToText\bin\Debug\NumsToText.pdb
+D:\C# Solutions\SimpleConditions\NumsToText\obj\Debug\NumsToText.csprojResolveAssemblyReference.cache
+D:\C# Solutions\SimpleConditions\NumsToText\obj\Debug\NumsToText.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\NumsToText\obj\Debug\NumsToText.exe
+D:\C# Solutions\SimpleConditions\NumsToText\obj\Debug\NumsToText.pdb

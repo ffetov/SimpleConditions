@@ -1,0 +1,6 @@
+D:\C# Solutions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\C# Solutions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\C# Solutions\SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\C# Solutions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\C# Solutions\SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

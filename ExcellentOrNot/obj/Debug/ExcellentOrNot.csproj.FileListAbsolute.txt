@@ -1,0 +1,6 @@
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+D:\C# Solutions\SimpleConditions\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb

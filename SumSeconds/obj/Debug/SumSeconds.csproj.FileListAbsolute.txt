@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\C# Solutions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.exe
+D:\C# Solutions\SimpleConditions\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\C# Solutions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+D:\C# Solutions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.exe
+D:\C# Solutions\SimpleConditions\SumSeconds\obj\Debug\SumSeconds.pdb

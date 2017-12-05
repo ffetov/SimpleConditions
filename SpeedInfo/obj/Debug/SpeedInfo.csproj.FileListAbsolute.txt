@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+D:\C# Solutions\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe
+D:\C# Solutions\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.pdb
+D:\C# Solutions\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.csprojResolveAssemblyReference.cache
+D:\C# Solutions\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.exe
+D:\C# Solutions\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.pdb

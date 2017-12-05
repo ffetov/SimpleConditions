@@ -1,0 +1,14 @@
+D:\C# Solutions\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.exe.config
+D:\C# Solutions\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.exe
+D:\C# Solutions\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.pdb
+D:\C# Solutions\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.exe
+D:\C# Solutions\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.pdb
+D:\C# Solutions\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\bin\Debug\TimePlus15.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\TimePlus15\obj\Debug\TimePlus15.pdb

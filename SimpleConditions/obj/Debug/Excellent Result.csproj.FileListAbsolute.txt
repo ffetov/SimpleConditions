@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\SimpleConditions\bin\Debug\SimpleConditions.exe.config
+D:\C# Solutions\SimpleConditions\SimpleConditions\bin\Debug\SimpleConditions.exe
+D:\C# Solutions\SimpleConditions\SimpleConditions\bin\Debug\SimpleConditions.pdb
+D:\C# Solutions\SimpleConditions\SimpleConditions\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache
+D:\C# Solutions\SimpleConditions\SimpleConditions\obj\Debug\Excellent Result.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\SimpleConditions\obj\Debug\SimpleConditions.exe
+D:\C# Solutions\SimpleConditions\SimpleConditions\obj\Debug\SimpleConditions.pdb

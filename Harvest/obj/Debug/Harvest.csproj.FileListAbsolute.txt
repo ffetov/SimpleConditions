@@ -1,0 +1,6 @@
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\bin\Debug\Harvest.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\bin\Debug\Harvest.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\bin\Debug\Harvest.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\obj\Debug\Harvest.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\Harvest\obj\Debug\Harvest.pdb

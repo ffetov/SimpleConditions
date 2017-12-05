@@ -1,0 +1,6 @@
+D:\C# Solutions\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe.config
+D:\C# Solutions\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe
+D:\C# Solutions\SimpleConditions\EqualWords\bin\Debug\EqualWords.pdb
+D:\C# Solutions\SimpleConditions\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\EqualWords\obj\Debug\EqualWords.exe
+D:\C# Solutions\SimpleConditions\EqualWords\obj\Debug\EqualWords.pdb

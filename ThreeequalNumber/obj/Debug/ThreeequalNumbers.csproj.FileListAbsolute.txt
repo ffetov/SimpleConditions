@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\bin\Debug\ThreeequalNumber.exe.config
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\bin\Debug\ThreeequalNumber.exe
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\bin\Debug\ThreeequalNumber.pdb
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\obj\Debug\ThreeequalNumbers.csprojResolveAssemblyReference.cache
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\obj\Debug\ThreeequalNumbers.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\obj\Debug\ThreeequalNumber.exe
+D:\C# Solutions\SimpleConditions\ThreeequalNumber\obj\Debug\ThreeequalNumber.pdb

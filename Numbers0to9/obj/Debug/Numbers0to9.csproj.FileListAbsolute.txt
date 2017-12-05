@@ -1,0 +1,6 @@
+D:\C# Solutions\SimpleConditions\Numbers0to9\bin\Debug\Numbers0to9.exe.config
+D:\C# Solutions\SimpleConditions\Numbers0to9\bin\Debug\Numbers0to9.exe
+D:\C# Solutions\SimpleConditions\Numbers0to9\bin\Debug\Numbers0to9.pdb
+D:\C# Solutions\SimpleConditions\Numbers0to9\obj\Debug\Numbers0to9.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\Numbers0to9\obj\Debug\Numbers0to9.exe
+D:\C# Solutions\SimpleConditions\Numbers0to9\obj\Debug\Numbers0to9.pdb

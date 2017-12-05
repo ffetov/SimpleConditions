@@ -1,0 +1,7 @@
+D:\C# Solutions\SimpleConditions\BonusScores\bin\Debug\BonusScores.exe.config
+D:\C# Solutions\SimpleConditions\BonusScores\bin\Debug\BonusScores.exe
+D:\C# Solutions\SimpleConditions\BonusScores\bin\Debug\BonusScores.pdb
+D:\C# Solutions\SimpleConditions\BonusScores\obj\Debug\BonusScores.csproj.CoreCompileInputs.cache
+D:\C# Solutions\SimpleConditions\BonusScores\obj\Debug\BonusScores.exe
+D:\C# Solutions\SimpleConditions\BonusScores\obj\Debug\BonusScores.pdb
+D:\C# Solutions\SimpleConditions\BonusScores\obj\Debug\BonusScores.csprojResolveAssemblyReference.cache

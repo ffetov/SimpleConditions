@@ -1,0 +1,7 @@
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\bin\Debug\SleepingCatTom.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.exe
+C:\Users\Fetta Fetov\source\repos\SimpleConditions\SleepingCatTom\obj\Debug\SleepingCatTom.pdb
